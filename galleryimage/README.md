@@ -1,0 +1,1 @@
+Galería de imágenes parte de tutorial React
