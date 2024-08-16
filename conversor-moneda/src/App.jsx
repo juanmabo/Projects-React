@@ -11,7 +11,7 @@ function App() {
 
     const pesosArg = dolarValor*988;
 
-    resultref.current.innerHTML=pesosArg;
+    resultref.current.innerHTML="$" + pesosArg.toFixed(2);
 
   }
   return (
